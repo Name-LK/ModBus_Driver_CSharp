@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DbPA5CP3LoG48on3k2ecK812FrAyuIZJ9J4zvbyvMQCzhfs94hFW0hZNFf03ofY9C4TKNqNnE8hS1O8T9NNYA==",
+  "success": true,
+  "projectFilePath": "/home/lk/code/automind/linkedin/ModBus_Driver_CSharp/ModbusDriver.Core/ModbusDriver.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/lk/.nuget/packages/nmodbus/3.0.81/nmodbus.3.0.81.nupkg.sha512"
+  ],
+  "logs": []
+}
